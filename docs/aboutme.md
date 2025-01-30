@@ -10,4 +10,4 @@ Currently, I am a technical writer student at Algonquin College. I'm passionate 
 
 When I'm not studying, I love to explore Ottawa's hidden gems, try new restaurants, and help organize fun events in the city. 
 
-Feel free to check out my resume or get in touch at guin0093@algonquinlive.com!
+Feel free to check out my [resume](https://www.dropbox.com/scl/fi/g68d99r120hd2soimxd3a/Jade-Guinoiseau-Resume.pdf?rlkey=gxs8o4hnn4xo9elxg3fnzsrz1&st=0zwfblvs&dl=0) or get in touch at guin0093@algonquinlive.com!
