@@ -71,12 +71,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Portfolio',
-          },
+          //{
+           // type: 'docSidebar',
+           // sidebarId: 'tutorialSidebar',
+           // position: 'left',
+           // label: 'Portfolio',
+         // },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/jadegui',
