@@ -3,6 +3,8 @@ sidebar_position: 1
 ---
 # White Paper and Presentation
 
+---
+
 ## Purpose and Context
 
 I wrote a [white paper](https://www.dropbox.com/scl/fi/8rmz6hax3ii5ytbx9xpqd/JGuinoiseau-White-Paper.pdf?rlkey=3n66f7nzrmjexk96f338by8y8&st=6sxzqzga&dl=0) to inform the Canadian defence sector about the MQ-9B SeaGuardian remotely piloted aircraft system (RPAS) by General Atomics Aeronautical Systems, Inc. The purpose was to highlight the relevance of the SeaGuardian in modernizing maritime defence, especially in the context of current trends in the Arctic region and NATO’s benchmark of two percent of GDP for defence spending.

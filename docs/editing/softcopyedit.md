@@ -3,6 +3,8 @@ sidebar_position: 2
 ---
 # Soft Copy Edit 
 
+---
+
 ## Purpose and Context
 
 I used Track Changes in MS Word to copyedit sections from an archived Turkish Airlines webpage for my [soft copy edit assignment](https://www.dropbox.com/scl/fi/6b5zzggiy0scyo77aidlf/JGuinoiseau-Soft-Copy-Edit.docx?rlkey=8fdi9uk2q3nncyiy10ipffgkf&st=35fu6o6g&dl=0). The purpose was to develop copyediting skills. I also made queries to ask for clarification and to make comments for larger edits.
