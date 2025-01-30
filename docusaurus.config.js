@@ -63,12 +63,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/favicon.ico',
       navbar: {
-        title: 'My Site',
+        title: 'Jade Guinoiseau',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Jade Guinoiseau',
+          src: 'img/favicon.ico',
         },
         items: [
           //{
