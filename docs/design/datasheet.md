@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Datasheet
-description: datasheet for a white paper
+description: MQ-9B SeaGuardian Datasheet
 keywords: 
 - Adobe InDesign
 - Technical writing

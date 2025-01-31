@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: White Paper Edit
-description: edited white paper
+description: Edit of a student's white paper draft
 keywords: 
 - Track Changes
 - Technical editing

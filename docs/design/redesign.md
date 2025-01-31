@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Redesign
-description: redesign of an event page on a web interface
+description: Re-imagining of an event page
 keywords: 
 - Canva
 - Technical writing

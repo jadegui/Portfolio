@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: About Me
-description: learn about a technical writer student
+description: Learn about a technical writer student
 keywords: 
 - biography
 - resume

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Proposal
-description: propose social media strategy to a nonprofit
+description: A new social media strategy for the Ottawa Chinese Service Centre
 keywords: 
 - proposal writing
 - Technical writing

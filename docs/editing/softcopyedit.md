@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Soft Copy Edit
-description: edited document using Track Changes in Microsoft Word
+description: Edit of an archived Turkish Airlines webpage 
 keywords: 
 - Track changes
 - Technical editing
