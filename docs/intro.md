@@ -2,7 +2,7 @@
 sidebar_position: 1
 slug: /
 title: Welcome to Jade's Portfolio
-description: Technical writer student portfolio made by docusaurus
+description: Technical writer portfolio made by docusaurus
 keywords: 
 - Docusaurus
 - Technical writing
@@ -13,11 +13,11 @@ keywords:
 
 # Welcome to Jade's Portfolio
 
-I'm a **technical writer student** based in Ottawa, ON.
+I'm a **technical writer** based in Ottawa, ON.
 
 ## Let's Discover My Docs
 
-I've organized my documents in several categories:
+I've organized my documents into the following categories:
 
 **1. Editing**
 - White Paper Edit
