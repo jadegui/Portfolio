@@ -1,5 +1,14 @@
 ---
 sidebar_position: 2
+title: technical writer bio
+description: learn about a technical writer student
+keywords: 
+- biography
+- resume
+- Algonquin College
+- technical writer
+- technical writer graduate certificate program
+- sphynx cats
 ---
 
 # About Me
@@ -10,6 +19,6 @@ My name is Jade Guinoiseau, and I'm from the New Jersey suburbs just outside of 
 
 Currently, I am a technical writer student at Algonquin College. I'm passionate about taking complex information and making it into accessible and user-friendly content for the end-users.
 
-When I'm not studying, I love to explore Ottawa's hidden gems, try new restaurants, and help organize fun events in the city. 
+In my free time, I love to explore Ottawa's hidden gems, try new restaurants, and help organize fun events in the city. 
 
 Feel free to check out my [resume](https://www.dropbox.com/scl/fi/g68d99r120hd2soimxd3a/Jade-Guinoiseau-Resume.pdf?rlkey=gxs8o4hnn4xo9elxg3fnzsrz1&st=0zwfblvs&dl=0) or get in touch at guin0093@algonquinlive.com!

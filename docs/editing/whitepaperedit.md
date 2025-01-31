@@ -1,5 +1,11 @@
 ---
 sidebar_position: 1
+title: technical writer datasheet
+description: edited white paper
+keywords: 
+- Track Changes
+- Technical editing
+- Copyediting 
 ---
 # White Paper Edit 
 

@@ -1,5 +1,14 @@
 ---
 sidebar_position: 1
+title: technical writer white paper
+description: white paper on the General Atomics Aeronautical Systems MQ-9B SeaGuardian
+keywords: 
+- white paper
+- Technical writing
+- General Atomics Aeronautical Systems
+- arctic sovereignty
+- remotely piloted aircraft system
+- Arctic defence 
 ---
 # White Paper and Presentation
 

@@ -1,5 +1,12 @@
 ---
 sidebar_position: 2
+title: flowchart
+description: learn how to make a grilled cheese sandwich
+keywords: 
+- Canva
+- Visual design 
+- Visual communication
+- Technical writer
 ---
 # Flowchart
 

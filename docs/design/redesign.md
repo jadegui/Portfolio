@@ -1,5 +1,13 @@
 ---
 sidebar_position: 1
+title: technical writer redesign
+description: redesign of an event page on a web interface
+keywords: 
+- Canva
+- Technical writing
+- Visual design 
+- Layout optimization
+- Readability 
 ---
 # Redesign
 

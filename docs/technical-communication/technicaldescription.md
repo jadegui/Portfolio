@@ -1,5 +1,11 @@
 ---
 sidebar_position: 4
+title: technical writer technical description
+description: how to install the amosijoy foldable cat window perch
+keywords: 
+- techical description
+- Technical writing
+- cat window perch
 ---
 # Technical Description
 

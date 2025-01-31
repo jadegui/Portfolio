@@ -1,5 +1,11 @@
 ---
 sidebar_position: 2
+title: technical writer datasheet
+description: datasheet for a white paper
+keywords: 
+- Adobe InDesign
+- Technical writing
+- Visual design 
 ---
 # Datasheet
 

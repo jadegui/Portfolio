@@ -1,5 +1,14 @@
 ---
 sidebar_position: 3
+title: technical writer proposal
+description: propose social media strategy to a nonprofit
+keywords: 
+- proposal writing
+- Technical writing
+- social media
+- social media management 
+- Gantt chart
+- nonprofit
 ---
 # Proposal
 
