@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 slug: /
-title: technical writer portfolio
+title: Welcome to Jade's Portfolio
 description: technical writer student portfolio made by docusaurus
 keywords: 
 - Docusaurus

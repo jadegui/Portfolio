@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: technical writer datasheet
+title: White Paper Edit
 description: edited white paper
 keywords: 
 - Track Changes

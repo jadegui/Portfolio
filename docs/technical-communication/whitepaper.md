@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: technical writer white paper
+title: White Paper
 description: white paper on the General Atomics Aeronautical Systems MQ-9B SeaGuardian
 keywords: 
 - white paper

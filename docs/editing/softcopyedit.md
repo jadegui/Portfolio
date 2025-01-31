@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: technical writer edit
+title: Soft Copy Edit
 description: edited document using Track Changes in Microsoft Word
 keywords: 
 - Track changes

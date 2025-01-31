@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: technical writer redesign
+title: Redesign
 description: redesign of an event page on a web interface
 keywords: 
 - Canva

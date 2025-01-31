@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: technical writer instruction set
+title: Instruction Set
 description: learn how to install Microsoft Project Professional 2019
 keywords: 
 - Task-orientation

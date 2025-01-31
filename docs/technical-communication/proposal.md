@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: technical writer proposal
+title: Proposal
 description: propose social media strategy to a nonprofit
 keywords: 
 - proposal writing
