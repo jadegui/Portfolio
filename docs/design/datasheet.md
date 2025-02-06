@@ -20,3 +20,9 @@ This [datasheet](https://www.dropbox.com/scl/fi/d7zyxrc2h7oi4jbznkjkr/JGuinoisea
 - Visual layout design for online and printed materials
 - Brand communication
 - Information summarization
+
+<iframe
+  src="/Portfolio/files/datasheet.pdf"
+  width="100%"
+  height="500px"
+></iframe>

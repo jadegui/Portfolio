@@ -21,3 +21,9 @@ I edited a fellow student’s [white paper draft](https://www.dropbox.com/scl/fi
 - Planning and project management for editing
 - Collaboration with a writer
 - Copyediting
+
+<iframe
+  src="/Portfolio/files/edit.pdf"
+  width="100%"
+  height="500px"
+></iframe>

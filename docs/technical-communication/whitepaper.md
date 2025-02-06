@@ -16,9 +16,9 @@ keywords:
 
 ## Purpose and Context
 
-I wrote a [white paper](https://www.dropbox.com/scl/fi/8rmz6hax3ii5ytbx9xpqd/JGuinoiseau-White-Paper.pdf?rlkey=3n66f7nzrmjexk96f338by8y8&st=6sxzqzga&dl=0) to inform the Canadian defence sector about the MQ-9B SeaGuardian remotely piloted aircraft system (RPAS) by General Atomics Aeronautical Systems, Inc. The purpose was to highlight the relevance of the SeaGuardian in modernizing maritime defence, especially in the context of current trends in the Arctic region and NATO’s benchmark of two percent of GDP for defence spending.
+I wrote a white paper to inform the Canadian defence sector about the MQ-9B SeaGuardian remotely piloted aircraft system (RPAS) by General Atomics Aeronautical Systems, Inc. The purpose was to highlight the relevance of the SeaGuardian in modernizing maritime defence, especially in the context of current trends in the Arctic region and NATO’s benchmark of two percent of GDP for defence spending.
 
-I prepared and delivered an [oral presentation](https://youtu.be/5TLwN55bXEE) summarizing the topic of my white paper. The purpose was to practice communicating technical information in a clear and engaging manner while using visual aids to support key points from my white paper.
+I prepared and delivered an oral presentation summarizing the topic of my white paper. The purpose was to practice communicating technical information in a clear and engaging manner while using visual aids to support key points from my white paper.
 
 ## Skills
 - Research and analysis
@@ -26,3 +26,14 @@ I prepared and delivered an [oral presentation](https://youtu.be/5TLwN55bXEE) su
 - Structuring and presenting technical information clearly
 - Creating a presentation using Microsoft PowerPoint 
 
+<iframe
+  src="/Portfolio/files/white.pdf"
+  width="100%"
+  height="500px"
+></iframe>
+
+<iframe
+  src="https://youtu.be/5TLwN55bXEE"
+  width="100%"
+  height="500px"
+></iframe>

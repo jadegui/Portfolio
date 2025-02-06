@@ -19,3 +19,9 @@ I wrote a [technical description](https://www.dropbox.com/scl/fi/kl567jr0uzzbm7e
 - Writing a product description
 - Organizing information into parts and functions
 - Using visuals to support text
+
+<iframe
+  src="/Portfolio/files/description.pdf"
+  width="100%"
+  height="500px"
+></iframe>

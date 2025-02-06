@@ -13,7 +13,7 @@ keywords:
 
 # Welcome to Jade's Portfolio
 
-I'm a **technical writer** based in Ottawa, ON.
+I'm a **technical writer student** based in Ottawa, ON.
 
 ## Let's Discover My Docs
 

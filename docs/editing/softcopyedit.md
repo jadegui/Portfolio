@@ -19,3 +19,9 @@ I used Track Changes in MS Word to copyedit sections from an archived Turkish Ai
 - Track Changes in Microsoft Word
 - Attention to detail
 - Copyediting
+
+<iframe
+  src="/Portfolio/files/soft.pdf"
+  width="100%"
+  height="500px"
+></iframe>
