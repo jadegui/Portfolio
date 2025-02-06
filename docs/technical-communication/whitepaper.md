@@ -26,14 +26,12 @@ I prepared and delivered an oral presentation summarizing the topic of my white 
 - Structuring and presenting technical information clearly
 - Creating a presentation using Microsoft PowerPoint 
 
+## White Paper
 <iframe
   src="/Portfolio/files/white.pdf"
   width="100%"
   height="500px"
 ></iframe>
 
-<iframe
-  src="https://youtu.be/5TLwN55bXEE"
-  width="100%"
-  height="500px"
-></iframe>
+## Presentation 
+<iframe width="100%" height="500px" src="https://www.youtube.com/embed/5TLwN55bXEE?si=F_AIDi2dzmswQSou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
