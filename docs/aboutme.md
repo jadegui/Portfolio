@@ -18,7 +18,7 @@ keywords:
 My name is Jade Guinoiseau, and I'm from the New Jersey suburbs just outside of Philadelphia. In 2017, I moved to Canada to study at McGill University in Montreal, QC. After finishing my studies in 2020 (and a brief stint back home in NJ), I settled in Ottawa, where I now live with my partner and our three sphynx (hairless) cats.  
 
 <div class="img-center"> 
-![sphynx (hairless) cats](/img/cats1.jpg)
+![sphynx (hairless) cats](/img/cats2.png)
 </div> 
 
 
