@@ -23,15 +23,19 @@ I've organized my documents into the following categories:
 - White Paper Edit
 - Soft Copy Edit
 
-**2. Technical Communication**
+**2. Instructional Design**
+- Job Aid
+- Tutorial 
+
+**3. Technical Communication**
 - White Paper and Presentation
 - Instruction Set
 - Proposal
 - Technical Description
 
-**3. Visual Design**
+**4. Visual Design**
 - Datasheet
 - Flowchart
 - Redesign 
-- Job Aid
+
 

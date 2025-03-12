@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 title: Job Aid
-description: Creating a screencast in OBS Studio
+description: Creating a Screencast in OBS Studio
 keywords: 
 - OBS Studio
 - Technical writing
