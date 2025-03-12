@@ -33,3 +33,5 @@ I've organized my documents into the following categories:
 - Datasheet
 - Flowchart
 - Redesign 
+- Job Aid
+
