@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 title: Redesign
 description: Re-imagining of an event page
 keywords: 
