@@ -15,18 +15,11 @@ keywords:
 
 ---
 
-My name is Jade Guinoiseau, and I'm from the New Jersey suburbs just outside of Philadelphia. In 2017, I moved to Canada to study at McGill University in Montreal, QC. After finishing my studies in 2020 (and a brief stint back home in NJ), I settled in Ottawa, where I now live with my partner and our three sphynx (hairless) cats.  
+I am a detail-oriented technical communicator, specializing in translating complex information into clear, accurate, user-centered documentation. My work focuses on creating structured content and technical diagrams that help customers understand our products. I work closely with subject matter experts to produce accurate and usable documentation. 
 
-<div class="img-center"> 
-![sphynx (hairless) cats](/img/cats2.png)
-</div> 
+In my free time, I enjoy cross country skiing, hosting a monthly community board game event, and taking care of my cats. These interests keep me active, connected, and attentive to the small details that matter.
 
-
-Currently, I am a technical writer student at Algonquin College with an expected completion date in April 2025. I'm passionate about taking complex information and making it into accessible and user-friendly content.
-
-In my free time, I love to explore Ottawa's hidden gems, try new restaurants, and help organize fun events in the city. 
-
-Feel free to check out my resume or get in touch at guin0093@algonquinlive.com!
+Feel free to check out my resume or get in touch at jadeguinoiseau@gmail.com 
 
 <iframe
   src="/Portfolio/files/resume.pdf"

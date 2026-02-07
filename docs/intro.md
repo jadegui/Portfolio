@@ -13,11 +13,9 @@ keywords:
 
 # Welcome to Jade's Portfolio
 
-I'm a **technical writer student** based in Ottawa, ON.
+I'm a **technical writer** based in Ottawa, ON.
 
 ## Let's Discover My Docs
-
-I've organized my documents into the following categories:
 
 **1. Editing**
 - White Paper Edit
