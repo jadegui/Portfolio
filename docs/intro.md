@@ -24,6 +24,7 @@ I'm a **technical writer** based in Ottawa, ON.
 **2. Instructional Design**
 - Job Aid
 - Tutorial 
+- Instructional Design Plan
 
 **3. Technical Communication**
 - White Paper and Presentation
