@@ -89,15 +89,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Algonquin College',
-            items: [
-              {
-                label: 'Technical Writer Graduate Certificate',
-                href: 'https://www.algonquincollege.com/sat/program/technical-writer/',
-              },
-            ],
-          },
-          {
             title: 'Community',
             items: [
               {
