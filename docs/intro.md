@@ -13,9 +13,9 @@ keywords:
 
 # Welcome to Jade's Portfolio
 
-I'm a **technical writer** based in Ottawa, ON.
+**Technical Writer** based in Ottawa, Ontario
 
-## Let's Discover My Docs
+## Discover My Docs
 
 **1. Editing**
 - [White Paper Edit](./editing/whitepaperedit.md)

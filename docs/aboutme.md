@@ -16,8 +16,6 @@ I am a detail-oriented technical communicator, specializing in translating compl
 
 Outside of work, I enjoy cross country skiing, hosting a monthly community board game event, and taking care of my cats. These interests keep me active, connected, and attentive to the small details that matter.
 
-Feel free to check out my resume or get in touch at jadeguinoiseau@gmail.com 
-
 <iframe
   src="/Portfolio/files/resume.pdf"
   width="100%"

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Job Aid
-description: Creating a Screencast in OBS Studio
+description: Learning Supplement for Teach-a-Class
 keywords: 
 - OBS Studio
 - Technical writing

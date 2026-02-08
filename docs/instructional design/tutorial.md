@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Tutorial
-description: Learn how to create a screencast in OBS Studio
+description: Step-by-step Instructional Guide
 keywords: 
 - OBS Studio
 - Technical writing

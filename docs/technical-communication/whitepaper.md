@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: White Paper and Presentation
-description: A white paper informing the Canadian defence sector on the MQ-9B SeaGuardian RPAS and its role in modernizing maritime defence amid Arctic security trends and NATO defence spending benchmarks
+description: Northern Mairitime Defence
 keywords: 
 - white paper
 - Technical writing

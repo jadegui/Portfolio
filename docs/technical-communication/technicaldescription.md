@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 title: Technical Description
-description: Part-by-part breakdown of the Amosijoy Foldable Cat Window Perch
+description: Part-by-part Breakdown
 keywords: 
 - techical description
 - Technical writing
