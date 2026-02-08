@@ -18,23 +18,23 @@ I'm a **technical writer** based in Ottawa, ON.
 ## Let's Discover My Docs
 
 **1. Editing**
-- White Paper Edit
-- Soft Copy Edit
+- [White Paper Edit](./editing/whitepaperedit.md)
+- [Soft Copy Edit](./editing/softcopyedit.md)
 
 **2. Instructional Design**
-- Job Aid
-- Tutorial 
-- Instructional Design Plan
+- [Job Aid](./instructional%20design/jobaid.md)
+- [Tutorial](./instructional%20design/tutorial.md)
+- [Instructional Design Plan](./instructional%20design/idplan.md)
 
 **3. Technical Communication**
-- White Paper and Presentation
-- Instruction Set
-- Proposal
-- Technical Description
+- [White Paper and Presentation](./technical-communication/whitepaper.md)
+- [Instruction Set](./technical-communication/instructionset.md)
+- [Proposal](./technical-communication/proposal.md)
+- [Technical Description](./technical-communication/technicaldescription.md)
 
 **4. Visual Design**
-- Datasheet
-- Flowchart
-- Redesign 
+- [Datasheet](./design/datasheet.md)
+- [Flowchart](./design/flowchart.md)
+- [Redesign](./design/redesign.md) 
 
 
